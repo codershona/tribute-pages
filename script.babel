@@ -1,0 +1,2 @@
+const tributeName = 'tribute_project_freecodecamp';
+localStorage.setItem('task-project', 'Tribute Project');
